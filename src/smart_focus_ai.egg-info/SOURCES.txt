@@ -1,4 +1,6 @@
+MANIFEST.in
 README.md
+README.rst
 setup.py
 src/detection/__init__.py
 src/detection/typing_activity.py

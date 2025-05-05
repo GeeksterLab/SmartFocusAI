@@ -25,7 +25,7 @@
 
 **Smart Focus AI** est une application Python qui utilise votre webcam pour détecter en temps réel si vous êtes **focalisé·e** ou **distrait·e**, en combinant :
 
-- la direction du regard (gaze) via MediaPipe FaceMesh  
+- la direction du regard sans lunettes (gaze) via MediaPipe FaceMesh  
 - la détection de frappe clavier (TypingActivityDetector)  
 - le comptage de clignements d’yeux (BlinkDetector)  
 
