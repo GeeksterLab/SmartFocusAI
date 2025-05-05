@@ -1,0 +1,11 @@
+# .coveragerc
+
+[run]
+# Coverage doit mesurer tout ce qui se trouve dans src/
+source = src
+
+[report]
+# On omet les tests et les __init__.py vides
+omit =
+    tests/*
+    */__init__.py
